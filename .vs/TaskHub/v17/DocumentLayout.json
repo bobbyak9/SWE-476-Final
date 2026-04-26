@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\k8s_azure\\app.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:k8s_azure\\app.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\k8s_azure\\migration.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:k8s_azure\\migration.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\controllers\\api\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:controllers\\api\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\controllers\\api\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:controllers\\api\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\controllers\\api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:controllers\\api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\taha draoui\\source\\repos\\final exam\\taskhub\\controllers\\api\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:controllers\\api\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "migration.yml",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\k8s_azure\\migration.yml",
+              "RelativeDocumentMoniker": "k8s_azure\\migration.yml",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\k8s_azure\\migration.yml",
+              "RelativeToolTip": "k8s_azure\\migration.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-21T00:24:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.yml",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\k8s_azure\\app.yml",
+              "RelativeDocumentMoniker": "k8s_azure\\app.yml",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\k8s_azure\\app.yml",
+              "RelativeToolTip": "k8s_azure\\app.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-21T00:24:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T10:52:47.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T10:48:07.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\Api\\TasksController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:30:15.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\Api\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:30:09.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\Api\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:29:35.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\Api\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:16:41.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAnwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:20:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\ApiControllerBase.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\ApiControllerBase.cs",
+              "ToolTip": "C:\\Users\\Taha Draoui\\source\\repos\\Final exam\\TaskHub\\Controllers\\Api\\ApiControllerBase.cs",
+              "RelativeToolTip": "Controllers\\Api\\ApiControllerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:31:16.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
