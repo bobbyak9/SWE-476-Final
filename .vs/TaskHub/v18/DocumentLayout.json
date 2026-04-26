@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\darkb\\documents\\swe-476\\final exam\\taskhub\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\darkb\\documents\\swe-476\\final exam\\taskhub\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|c:\\users\\darkb\\documents\\swe-476\\final exam\\taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9EFE8D-9343-43C0-ACBF-5D26F76ECFED}|TaskHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-26T03:23:15.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-26T03:02:02.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\darkb\\Documents\\SWE-476\\Final exam\\TaskHub\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -63,8 +97,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-23T21:02:27.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:02:27.2Z"
             }
           ]
         }
